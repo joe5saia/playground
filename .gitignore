@@ -1,0 +1,50 @@
+# macOS / OS-generated files
+.DS_Store
+Thumbs.db
+*.swp
+*.swo
+
+# Editor settings
+.vscode/
+.idea/
+*.code-workspace
+
+# Environment files (keep templates tracked)
+.env
+.env.*
+!.env.example
+!.env.sample
+
+# Logs and diagnostic output
+logs/
+*.log
+npm-debug.log*
+pnpm-debug.log*
+yarn-debug.log*
+yarn-error.log*
+
+# Dependency installs and package manager state
+node_modules/
+**/node_modules/
+.bun/
+.pnp.*
+.npm/
+.pnpm-store/
+
+# Build / cache artifacts
+dist/
+build/
+coverage/
+.turbo/
+.next/
+.cache/
+.parcel-cache/
+svelte-kit/
+.svelte-kit/
+tmp/
+temp/
+.tsbuildinfo
+
+# Archives
+*.tgz
+*.tar.gz

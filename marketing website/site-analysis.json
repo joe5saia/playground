@@ -1,0 +1,3477 @@
+{
+  "url": "https://rexfordcommercialcapital.com/",
+  "timestamp": "2025-11-08T11:58:49.464Z",
+  "pages": {
+    "https://rexfordcommercialcapital.com/": {
+      "name": "Homepage",
+      "url": "https://rexfordcommercialcapital.com/",
+      "title": "Home - Rexford Commercial Capital",
+      "headings": {
+        "h1": [],
+        "h2": [
+          "Home",
+          "Our Services",
+          "How It Works",
+          "Recently Funded"
+        ],
+        "h3": [
+          "Rexford Commercial Capital",
+          "Loan Programs",
+          "Contact",
+          "Social Links"
+        ],
+        "h4": [
+          "Rental Property Loans",
+          "Fix and Flip Financing",
+          "Commercial Real Estate Financing",
+          "Equipment Financing",
+          "Privacy Overview"
+        ]
+      },
+      "forms": [
+        {
+          "id": "form-0",
+          "action": "",
+          "method": "GET",
+          "fields": [
+            {
+              "type": "text",
+              "name": "s",
+              "placeholder": "",
+              "required": false
+            },
+            {
+              "type": "submit",
+              "name": "",
+              "placeholder": "",
+              "required": false
+            }
+          ]
+        }
+      ],
+      "images": [
+        {
+          "src": "https://rexfordcommercialcapital.com/wp-content/uploads/2021/07/full-logo.png",
+          "alt": "Rexford Commercial Capital",
+          "width": null,
+          "height": null
+        },
+        {
+          "src": "https://rexfordcommercialcapital.com/wp-content/uploads/2021/07/full-logo.png",
+          "alt": "Rexford Commercial Capital",
+          "width": null,
+          "height": null
+        },
+        {
+          "src": "https://rexfordcommercialcapital.com/wp-content/uploads/2021/07/full-logo.png",
+          "alt": "Rexford Commercial Capital",
+          "width": null,
+          "height": null
+        },
+        {
+          "src": "https://rexfordcommercialcapital.com/wp-content/uploads/2024/02/rental-property.png",
+          "alt": "",
+          "width": null,
+          "height": null
+        },
+        {
+          "src": "https://rexfordcommercialcapital.com/wp-content/uploads/2024/02/fix.png",
+          "alt": "",
+          "width": null,
+          "height": null
+        },
+        {
+          "src": "https://rexfordcommercialcapital.com/wp-content/uploads/2024/02/commercial.png",
+          "alt": "",
+          "width": null,
+          "height": null
+        },
+        {
+          "src": "https://rexfordcommercialcapital.com/wp-content/uploads/2024/02/truck.png",
+          "alt": "",
+          "width": null,
+          "height": null
+        },
+        {
+          "src": "https://rexfordcommercialcapital.com/wp-content/uploads/2024/02/circle-1.png",
+          "alt": "",
+          "width": 128,
+          "height": 128
+        },
+        {
+          "src": "https://rexfordcommercialcapital.com/wp-content/uploads/2024/02/circle-2.png",
+          "alt": "",
+          "width": 128,
+          "height": 128
+        },
+        {
+          "src": "https://rexfordcommercialcapital.com/wp-content/uploads/2024/02/circle-3.png",
+          "alt": "",
+          "width": 128,
+          "height": 128
+        }
+      ],
+      "sections": []
+    },
+    "https://rexfordcommercialcapital.com/financial-options/fix-and-flip-financing/": {
+      "name": "Fix And Flip Financing",
+      "url": "https://rexfordcommercialcapital.com/financial-options/fix-and-flip-financing/",
+      "title": "Albany, NY Fix and Flip Financing & Loans | Rexford Commercial Capital | 518-791-9771",
+      "headings": {
+        "h1": [
+          "FIX AND FLIP FINANCING"
+        ],
+        "h2": [
+          "Fix and Flip Financing",
+          "Fix and Flip Loans"
+        ],
+        "h3": [
+          "Contact Us",
+          "Rexford Commercial Capital",
+          "Loan Programs",
+          "Contact",
+          "Social Links"
+        ],
+        "h4": [
+          "Privacy Overview"
+        ]
+      },
+      "forms": [
+        {
+          "id": "form-0",
+          "action": "",
+          "method": "GET",
+          "fields": [
+            {
+              "type": "text",
+              "name": "s",
+              "placeholder": "",
+              "required": false
+            },
+            {
+              "type": "submit",
+              "name": "",
+              "placeholder": "",
+              "required": false
+            }
+          ]
+        },
+        {
+          "id": "gform_2",
+          "action": "https://rexfordcommercialcapital.com/financial-options/fix-and-flip-financing/",
+          "method": "POST",
+          "fields": [
+            {
+              "type": "text",
+              "name": "input_1",
+              "placeholder": "",
+              "required": false
+            },
+            {
+              "type": "email",
+              "name": "input_3",
+              "placeholder": "",
+              "required": false
+            },
+            {
+              "type": "tel",
+              "name": "input_4",
+              "placeholder": "",
+              "required": false
+            },
+            {
+              "type": "select",
+              "name": "input_6",
+              "placeholder": "",
+              "required": false
+            },
+            {
+              "type": "text",
+              "name": "input_8",
+              "placeholder": "",
+              "required": false
+            },
+            {
+              "type": "textarea",
+              "name": "input_5",
+              "placeholder": "",
+              "required": false
+            },
+            {
+              "type": "checkbox",
+              "name": "input_7.1",
+              "placeholder": "",
+              "required": false
+            },
+            {
+              "type": "text",
+              "name": "input_9",
+              "placeholder": "",
+              "required": false
+            },
+            {
+              "type": "submit",
+              "name": "gform_submit_button_2",
+              "placeholder": "",
+              "required": false
+            },
+            {
+              "type": "hidden",
+              "name": "gform_submission_method",
+              "placeholder": "",
+              "required": false
+            },
+            {
+              "type": "hidden",
+              "name": "gform_theme",
+              "placeholder": "",
+              "required": false
+            },
+            {
+              "type": "hidden",
+              "name": "gform_style_settings",
+              "placeholder": "",
+              "required": false
+            },
+            {
+              "type": "hidden",
+              "name": "is_submit_2",
+              "placeholder": "",
+              "required": false
+            },
+            {
+              "type": "hidden",
+              "name": "gform_submit",
+              "placeholder": "",
+              "required": false
+            },
+            {
+              "type": "hidden",
+              "name": "gform_unique_id",
+              "placeholder": "",
+              "required": false
+            },
+            {
+              "type": "hidden",
+              "name": "state_2",
+              "placeholder": "",
+              "required": false
+            },
+            {
+              "type": "hidden",
+              "name": "gform_target_page_number_2",
+              "placeholder": "",
+              "required": false
+            },
+            {
+              "type": "hidden",
+              "name": "gform_source_page_number_2",
+              "placeholder": "",
+              "required": false
+            },
+            {
+              "type": "hidden",
+              "name": "gform_field_values",
+              "placeholder": "",
+              "required": false
+            }
+          ]
+        }
+      ],
+      "images": [
+        {
+          "src": "https://rexfordcommercialcapital.com/wp-content/uploads/2021/07/full-logo.png",
+          "alt": "Rexford Commercial Capital",
+          "width": null,
+          "height": null
+        },
+        {
+          "src": "https://rexfordcommercialcapital.com/wp-content/uploads/2021/07/full-logo.png",
+          "alt": "Rexford Commercial Capital",
+          "width": null,
+          "height": null
+        },
+        {
+          "src": "https://rexfordcommercialcapital.com/wp-content/uploads/2021/07/full-logo.png",
+          "alt": "Rexford Commercial Capital",
+          "width": null,
+          "height": null
+        },
+        {
+          "src": "https://seal-upstateny.bbb.org/seals/blue-seal-96-50-bbb-236017820.png",
+          "alt": "Rexford Commercial Capital BBB Business Review",
+          "width": null,
+          "height": null
+        },
+        {
+          "src": "https://seal-upstateny.bbb.org/seals/blue-seal-96-50-bbb-236017820.png",
+          "alt": "Rexford Commercial Capital BBB Business Review",
+          "width": null,
+          "height": null
+        }
+      ],
+      "sections": []
+    },
+    "https://rexfordcommercialcapital.com/financial-options/rental-property-loans/": {
+      "name": "Rental Property Loans",
+      "url": "https://rexfordcommercialcapital.com/financial-options/rental-property-loans/",
+      "title": "Albany, NY Commercial Real Estate Loans & Financing | 518-791-9771",
+      "headings": {
+        "h1": [
+          "RENTAL PROPERTY LOANS"
+        ],
+        "h2": [
+          "Rental Property Loans",
+          "Rental Property Loans"
+        ],
+        "h3": [
+          "Contact Us",
+          "Rexford Commercial Capital",
+          "Loan Programs",
+          "Contact",
+          "Social Links"
+        ],
+        "h4": [
+          "Privacy Overview"
+        ]
+      },
+      "forms": [
+        {
+          "id": "form-0",
+          "action": "",
+          "method": "GET",
+          "fields": [
+            {
+              "type": "text",
+              "name": "s",
+              "placeholder": "",
+              "required": false
+            },
+            {
+              "type": "submit",
+              "name": "",
+              "placeholder": "",
+              "required": false
+            }
+          ]
+        },
+        {
+          "id": "gform_2",
+          "action": "https://rexfordcommercialcapital.com/financial-options/rental-property-loans/",
+          "method": "POST",
+          "fields": [
+            {
+              "type": "text",
+              "name": "input_1",
+              "placeholder": "",
+              "required": false
+            },
+            {
+              "type": "email",
+              "name": "input_3",
+              "placeholder": "",
+              "required": false
+            },
+            {
+              "type": "tel",
+              "name": "input_4",
+              "placeholder": "",
+              "required": false
+            },
+            {
+              "type": "select",
+              "name": "input_6",
+              "placeholder": "",
+              "required": false
+            },
+            {
+              "type": "text",
+              "name": "input_8",
+              "placeholder": "",
+              "required": false
+            },
+            {
+              "type": "textarea",
+              "name": "input_5",
+              "placeholder": "",
+              "required": false
+            },
+            {
+              "type": "checkbox",
+              "name": "input_7.1",
+              "placeholder": "",
+              "required": false
+            },
+            {
+              "type": "text",
+              "name": "input_9",
+              "placeholder": "",
+              "required": false
+            },
+            {
+              "type": "submit",
+              "name": "gform_submit_button_2",
+              "placeholder": "",
+              "required": false
+            },
+            {
+              "type": "hidden",
+              "name": "gform_submission_method",
+              "placeholder": "",
+              "required": false
+            },
+            {
+              "type": "hidden",
+              "name": "gform_theme",
+              "placeholder": "",
+              "required": false
+            },
+            {
+              "type": "hidden",
+              "name": "gform_style_settings",
+              "placeholder": "",
+              "required": false
+            },
+            {
+              "type": "hidden",
+              "name": "is_submit_2",
+              "placeholder": "",
+              "required": false
+            },
+            {
+              "type": "hidden",
+              "name": "gform_submit",
+              "placeholder": "",
+              "required": false
+            },
+            {
+              "type": "hidden",
+              "name": "gform_unique_id",
+              "placeholder": "",
+              "required": false
+            },
+            {
+              "type": "hidden",
+              "name": "state_2",
+              "placeholder": "",
+              "required": false
+            },
+            {
+              "type": "hidden",
+              "name": "gform_target_page_number_2",
+              "placeholder": "",
+              "required": false
+            },
+            {
+              "type": "hidden",
+              "name": "gform_source_page_number_2",
+              "placeholder": "",
+              "required": false
+            },
+            {
+              "type": "hidden",
+              "name": "gform_field_values",
+              "placeholder": "",
+              "required": false
+            }
+          ]
+        }
+      ],
+      "images": [
+        {
+          "src": "https://rexfordcommercialcapital.com/wp-content/uploads/2021/07/full-logo.png",
+          "alt": "Rexford Commercial Capital",
+          "width": null,
+          "height": null
+        },
+        {
+          "src": "https://rexfordcommercialcapital.com/wp-content/uploads/2021/07/full-logo.png",
+          "alt": "Rexford Commercial Capital",
+          "width": null,
+          "height": null
+        },
+        {
+          "src": "https://rexfordcommercialcapital.com/wp-content/uploads/2021/07/full-logo.png",
+          "alt": "Rexford Commercial Capital",
+          "width": null,
+          "height": null
+        },
+        {
+          "src": "https://seal-upstateny.bbb.org/seals/blue-seal-96-50-bbb-236017820.png",
+          "alt": "Rexford Commercial Capital BBB Business Review",
+          "width": null,
+          "height": null
+        },
+        {
+          "src": "https://seal-upstateny.bbb.org/seals/blue-seal-96-50-bbb-236017820.png",
+          "alt": "Rexford Commercial Capital BBB Business Review",
+          "width": null,
+          "height": null
+        }
+      ],
+      "sections": []
+    },
+    "https://rexfordcommercialcapital.com/financial-options/commercial-real-estate-financing/": {
+      "name": "Commercial Real Estate Financing",
+      "url": "https://rexfordcommercialcapital.com/financial-options/commercial-real-estate-financing/",
+      "title": "Albany, NY Commercial Real Estate Loans & Financing | 518-791-9771",
+      "headings": {
+        "h1": [
+          "COMMERCIAL REAL ESTATE FINANCING"
+        ],
+        "h2": [
+          "Commercial Real Estate Financing",
+          "Commercial Real Estate Loans"
+        ],
+        "h3": [
+          "Contact Us",
+          "Rexford Commercial Capital",
+          "Loan Programs",
+          "Contact",
+          "Social Links"
+        ],
+        "h4": [
+          "Privacy Overview"
+        ]
+      },
+      "forms": [
+        {
+          "id": "form-0",
+          "action": "",
+          "method": "GET",
+          "fields": [
+            {
+              "type": "text",
+              "name": "s",
+              "placeholder": "",
+              "required": false
+            },
+            {
+              "type": "submit",
+              "name": "",
+              "placeholder": "",
+              "required": false
+            }
+          ]
+        },
+        {
+          "id": "gform_2",
+          "action": "https://rexfordcommercialcapital.com/financial-options/commercial-real-estate-financing/",
+          "method": "POST",
+          "fields": [
+            {
+              "type": "text",
+              "name": "input_1",
+              "placeholder": "",
+              "required": false
+            },
+            {
+              "type": "email",
+              "name": "input_3",
+              "placeholder": "",
+              "required": false
+            },
+            {
+              "type": "tel",
+              "name": "input_4",
+              "placeholder": "",
+              "required": false
+            },
+            {
+              "type": "select",
+              "name": "input_6",
+              "placeholder": "",
+              "required": false
+            },
+            {
+              "type": "text",
+              "name": "input_8",
+              "placeholder": "",
+              "required": false
+            },
+            {
+              "type": "textarea",
+              "name": "input_5",
+              "placeholder": "",
+              "required": false
+            },
+            {
+              "type": "checkbox",
+              "name": "input_7.1",
+              "placeholder": "",
+              "required": false
+            },
+            {
+              "type": "text",
+              "name": "input_9",
+              "placeholder": "",
+              "required": false
+            },
+            {
+              "type": "submit",
+              "name": "gform_submit_button_2",
+              "placeholder": "",
+              "required": false
+            },
+            {
+              "type": "hidden",
+              "name": "gform_submission_method",
+              "placeholder": "",
+              "required": false
+            },
+            {
+              "type": "hidden",
+              "name": "gform_theme",
+              "placeholder": "",
+              "required": false
+            },
+            {
+              "type": "hidden",
+              "name": "gform_style_settings",
+              "placeholder": "",
+              "required": false
+            },
+            {
+              "type": "hidden",
+              "name": "is_submit_2",
+              "placeholder": "",
+              "required": false
+            },
+            {
+              "type": "hidden",
+              "name": "gform_submit",
+              "placeholder": "",
+              "required": false
+            },
+            {
+              "type": "hidden",
+              "name": "gform_unique_id",
+              "placeholder": "",
+              "required": false
+            },
+            {
+              "type": "hidden",
+              "name": "state_2",
+              "placeholder": "",
+              "required": false
+            },
+            {
+              "type": "hidden",
+              "name": "gform_target_page_number_2",
+              "placeholder": "",
+              "required": false
+            },
+            {
+              "type": "hidden",
+              "name": "gform_source_page_number_2",
+              "placeholder": "",
+              "required": false
+            },
+            {
+              "type": "hidden",
+              "name": "gform_field_values",
+              "placeholder": "",
+              "required": false
+            }
+          ]
+        }
+      ],
+      "images": [
+        {
+          "src": "https://rexfordcommercialcapital.com/wp-content/uploads/2021/07/full-logo.png",
+          "alt": "Rexford Commercial Capital",
+          "width": null,
+          "height": null
+        },
+        {
+          "src": "https://rexfordcommercialcapital.com/wp-content/uploads/2021/07/full-logo.png",
+          "alt": "Rexford Commercial Capital",
+          "width": null,
+          "height": null
+        },
+        {
+          "src": "https://rexfordcommercialcapital.com/wp-content/uploads/2021/07/full-logo.png",
+          "alt": "Rexford Commercial Capital",
+          "width": null,
+          "height": null
+        },
+        {
+          "src": "https://seal-upstateny.bbb.org/seals/blue-seal-96-50-bbb-236017820.png",
+          "alt": "Rexford Commercial Capital BBB Business Review",
+          "width": null,
+          "height": null
+        },
+        {
+          "src": "https://seal-upstateny.bbb.org/seals/blue-seal-96-50-bbb-236017820.png",
+          "alt": "Rexford Commercial Capital BBB Business Review",
+          "width": null,
+          "height": null
+        }
+      ],
+      "sections": []
+    },
+    "https://rexfordcommercialcapital.com/bridge-loans/": {
+      "name": "Bridge Loans",
+      "url": "https://rexfordcommercialcapital.com/bridge-loans/",
+      "title": "Bridge Loans - Rexford Commercial Capital",
+      "headings": {
+        "h1": [
+          "BRIDGE LOANS"
+        ],
+        "h2": [
+          "Bridge Loans",
+          "Bridge Loans"
+        ],
+        "h3": [
+          "Contact Us",
+          "Rexford Commercial Capital",
+          "Loan Programs",
+          "Contact",
+          "Social Links"
+        ],
+        "h4": [
+          "Privacy Overview"
+        ]
+      },
+      "forms": [
+        {
+          "id": "form-0",
+          "action": "",
+          "method": "GET",
+          "fields": [
+            {
+              "type": "text",
+              "name": "s",
+              "placeholder": "",
+              "required": false
+            },
+            {
+              "type": "submit",
+              "name": "",
+              "placeholder": "",
+              "required": false
+            }
+          ]
+        },
+        {
+          "id": "gform_2",
+          "action": "https://rexfordcommercialcapital.com/bridge-loans/",
+          "method": "POST",
+          "fields": [
+            {
+              "type": "text",
+              "name": "input_1",
+              "placeholder": "",
+              "required": false
+            },
+            {
+              "type": "email",
+              "name": "input_3",
+              "placeholder": "",
+              "required": false
+            },
+            {
+              "type": "tel",
+              "name": "input_4",
+              "placeholder": "",
+              "required": false
+            },
+            {
+              "type": "select",
+              "name": "input_6",
+              "placeholder": "",
+              "required": false
+            },
+            {
+              "type": "text",
+              "name": "input_8",
+              "placeholder": "",
+              "required": false
+            },
+            {
+              "type": "textarea",
+              "name": "input_5",
+              "placeholder": "",
+              "required": false
+            },
+            {
+              "type": "checkbox",
+              "name": "input_7.1",
+              "placeholder": "",
+              "required": false
+            },
+            {
+              "type": "text",
+              "name": "input_9",
+              "placeholder": "",
+              "required": false
+            },
+            {
+              "type": "submit",
+              "name": "gform_submit_button_2",
+              "placeholder": "",
+              "required": false
+            },
+            {
+              "type": "hidden",
+              "name": "gform_submission_method",
+              "placeholder": "",
+              "required": false
+            },
+            {
+              "type": "hidden",
+              "name": "gform_theme",
+              "placeholder": "",
+              "required": false
+            },
+            {
+              "type": "hidden",
+              "name": "gform_style_settings",
+              "placeholder": "",
+              "required": false
+            },
+            {
+              "type": "hidden",
+              "name": "is_submit_2",
+              "placeholder": "",
+              "required": false
+            },
+            {
+              "type": "hidden",
+              "name": "gform_submit",
+              "placeholder": "",
+              "required": false
+            },
+            {
+              "type": "hidden",
+              "name": "gform_unique_id",
+              "placeholder": "",
+              "required": false
+            },
+            {
+              "type": "hidden",
+              "name": "state_2",
+              "placeholder": "",
+              "required": false
+            },
+            {
+              "type": "hidden",
+              "name": "gform_target_page_number_2",
+              "placeholder": "",
+              "required": false
+            },
+            {
+              "type": "hidden",
+              "name": "gform_source_page_number_2",
+              "placeholder": "",
+              "required": false
+            },
+            {
+              "type": "hidden",
+              "name": "gform_field_values",
+              "placeholder": "",
+              "required": false
+            }
+          ]
+        }
+      ],
+      "images": [
+        {
+          "src": "https://rexfordcommercialcapital.com/wp-content/uploads/2021/07/full-logo.png",
+          "alt": "Rexford Commercial Capital",
+          "width": null,
+          "height": null
+        },
+        {
+          "src": "https://rexfordcommercialcapital.com/wp-content/uploads/2021/07/full-logo.png",
+          "alt": "Rexford Commercial Capital",
+          "width": null,
+          "height": null
+        },
+        {
+          "src": "https://rexfordcommercialcapital.com/wp-content/uploads/2021/07/full-logo.png",
+          "alt": "Rexford Commercial Capital",
+          "width": null,
+          "height": null
+        },
+        {
+          "src": "https://seal-upstateny.bbb.org/seals/blue-seal-96-50-bbb-236017820.png",
+          "alt": "Rexford Commercial Capital BBB Business Review",
+          "width": null,
+          "height": null
+        },
+        {
+          "src": "https://seal-upstateny.bbb.org/seals/blue-seal-96-50-bbb-236017820.png",
+          "alt": "Rexford Commercial Capital BBB Business Review",
+          "width": null,
+          "height": null
+        }
+      ],
+      "sections": []
+    },
+    "https://rexfordcommercialcapital.com/financial-options/equipment-financing/": {
+      "name": "Equipment Financing",
+      "url": "https://rexfordcommercialcapital.com/financial-options/equipment-financing/",
+      "title": "Equipment Financing - Rexford Commercial Capital",
+      "headings": {
+        "h1": [
+          "EQUIPMENT FINANCING"
+        ],
+        "h2": [
+          "Equipment Financing",
+          "Equipment Financing"
+        ],
+        "h3": [
+          "Contact Us",
+          "Rexford Commercial Capital",
+          "Loan Programs",
+          "Contact",
+          "Social Links"
+        ],
+        "h4": [
+          "Privacy Overview"
+        ]
+      },
+      "forms": [
+        {
+          "id": "form-0",
+          "action": "",
+          "method": "GET",
+          "fields": [
+            {
+              "type": "text",
+              "name": "s",
+              "placeholder": "",
+              "required": false
+            },
+            {
+              "type": "submit",
+              "name": "",
+              "placeholder": "",
+              "required": false
+            }
+          ]
+        },
+        {
+          "id": "gform_2",
+          "action": "https://rexfordcommercialcapital.com/financial-options/equipment-financing/",
+          "method": "POST",
+          "fields": [
+            {
+              "type": "text",
+              "name": "input_1",
+              "placeholder": "",
+              "required": false
+            },
+            {
+              "type": "email",
+              "name": "input_3",
+              "placeholder": "",
+              "required": false
+            },
+            {
+              "type": "tel",
+              "name": "input_4",
+              "placeholder": "",
+              "required": false
+            },
+            {
+              "type": "select",
+              "name": "input_6",
+              "placeholder": "",
+              "required": false
+            },
+            {
+              "type": "text",
+              "name": "input_8",
+              "placeholder": "",
+              "required": false
+            },
+            {
+              "type": "textarea",
+              "name": "input_5",
+              "placeholder": "",
+              "required": false
+            },
+            {
+              "type": "checkbox",
+              "name": "input_7.1",
+              "placeholder": "",
+              "required": false
+            },
+            {
+              "type": "text",
+              "name": "input_9",
+              "placeholder": "",
+              "required": false
+            },
+            {
+              "type": "submit",
+              "name": "gform_submit_button_2",
+              "placeholder": "",
+              "required": false
+            },
+            {
+              "type": "hidden",
+              "name": "gform_submission_method",
+              "placeholder": "",
+              "required": false
+            },
+            {
+              "type": "hidden",
+              "name": "gform_theme",
+              "placeholder": "",
+              "required": false
+            },
+            {
+              "type": "hidden",
+              "name": "gform_style_settings",
+              "placeholder": "",
+              "required": false
+            },
+            {
+              "type": "hidden",
+              "name": "is_submit_2",
+              "placeholder": "",
+              "required": false
+            },
+            {
+              "type": "hidden",
+              "name": "gform_submit",
+              "placeholder": "",
+              "required": false
+            },
+            {
+              "type": "hidden",
+              "name": "gform_unique_id",
+              "placeholder": "",
+              "required": false
+            },
+            {
+              "type": "hidden",
+              "name": "state_2",
+              "placeholder": "",
+              "required": false
+            },
+            {
+              "type": "hidden",
+              "name": "gform_target_page_number_2",
+              "placeholder": "",
+              "required": false
+            },
+            {
+              "type": "hidden",
+              "name": "gform_source_page_number_2",
+              "placeholder": "",
+              "required": false
+            },
+            {
+              "type": "hidden",
+              "name": "gform_field_values",
+              "placeholder": "",
+              "required": false
+            }
+          ]
+        }
+      ],
+      "images": [
+        {
+          "src": "https://rexfordcommercialcapital.com/wp-content/uploads/2021/07/full-logo.png",
+          "alt": "Rexford Commercial Capital",
+          "width": null,
+          "height": null
+        },
+        {
+          "src": "https://rexfordcommercialcapital.com/wp-content/uploads/2021/07/full-logo.png",
+          "alt": "Rexford Commercial Capital",
+          "width": null,
+          "height": null
+        },
+        {
+          "src": "https://rexfordcommercialcapital.com/wp-content/uploads/2021/07/full-logo.png",
+          "alt": "Rexford Commercial Capital",
+          "width": null,
+          "height": null
+        },
+        {
+          "src": "https://seal-upstateny.bbb.org/seals/blue-seal-96-50-bbb-236017820.png",
+          "alt": "Rexford Commercial Capital BBB Business Review",
+          "width": null,
+          "height": null
+        },
+        {
+          "src": "https://seal-upstateny.bbb.org/seals/blue-seal-96-50-bbb-236017820.png",
+          "alt": "Rexford Commercial Capital BBB Business Review",
+          "width": null,
+          "height": null
+        }
+      ],
+      "sections": []
+    },
+    "https://rexfordcommercialcapital.com/financial-options/unsecured-business-line-of-credit/": {
+      "name": "Unsecured Business Line Of Credit",
+      "url": "https://rexfordcommercialcapital.com/financial-options/unsecured-business-line-of-credit/",
+      "title": "The Best Unsecured Business Line Of Credit In Albany, NY",
+      "headings": {
+        "h1": [
+          "BUSINESS LINE OF CREDIT"
+        ],
+        "h2": [
+          "Business Line of Credit",
+          "Business Line of Credit"
+        ],
+        "h3": [
+          "Contact Us",
+          "Rexford Commercial Capital",
+          "Loan Programs",
+          "Contact",
+          "Social Links"
+        ],
+        "h4": [
+          "Privacy Overview"
+        ]
+      },
+      "forms": [
+        {
+          "id": "form-0",
+          "action": "",
+          "method": "GET",
+          "fields": [
+            {
+              "type": "text",
+              "name": "s",
+              "placeholder": "",
+              "required": false
+            },
+            {
+              "type": "submit",
+              "name": "",
+              "placeholder": "",
+              "required": false
+            }
+          ]
+        },
+        {
+          "id": "gform_2",
+          "action": "https://rexfordcommercialcapital.com/financial-options/unsecured-business-line-of-credit/",
+          "method": "POST",
+          "fields": [
+            {
+              "type": "text",
+              "name": "input_1",
+              "placeholder": "",
+              "required": false
+            },
+            {
+              "type": "email",
+              "name": "input_3",
+              "placeholder": "",
+              "required": false
+            },
+            {
+              "type": "tel",
+              "name": "input_4",
+              "placeholder": "",
+              "required": false
+            },
+            {
+              "type": "select",
+              "name": "input_6",
+              "placeholder": "",
+              "required": false
+            },
+            {
+              "type": "text",
+              "name": "input_8",
+              "placeholder": "",
+              "required": false
+            },
+            {
+              "type": "textarea",
+              "name": "input_5",
+              "placeholder": "",
+              "required": false
+            },
+            {
+              "type": "checkbox",
+              "name": "input_7.1",
+              "placeholder": "",
+              "required": false
+            },
+            {
+              "type": "text",
+              "name": "input_9",
+              "placeholder": "",
+              "required": false
+            },
+            {
+              "type": "submit",
+              "name": "gform_submit_button_2",
+              "placeholder": "",
+              "required": false
+            },
+            {
+              "type": "hidden",
+              "name": "gform_submission_method",
+              "placeholder": "",
+              "required": false
+            },
+            {
+              "type": "hidden",
+              "name": "gform_theme",
+              "placeholder": "",
+              "required": false
+            },
+            {
+              "type": "hidden",
+              "name": "gform_style_settings",
+              "placeholder": "",
+              "required": false
+            },
+            {
+              "type": "hidden",
+              "name": "is_submit_2",
+              "placeholder": "",
+              "required": false
+            },
+            {
+              "type": "hidden",
+              "name": "gform_submit",
+              "placeholder": "",
+              "required": false
+            },
+            {
+              "type": "hidden",
+              "name": "gform_unique_id",
+              "placeholder": "",
+              "required": false
+            },
+            {
+              "type": "hidden",
+              "name": "state_2",
+              "placeholder": "",
+              "required": false
+            },
+            {
+              "type": "hidden",
+              "name": "gform_target_page_number_2",
+              "placeholder": "",
+              "required": false
+            },
+            {
+              "type": "hidden",
+              "name": "gform_source_page_number_2",
+              "placeholder": "",
+              "required": false
+            },
+            {
+              "type": "hidden",
+              "name": "gform_field_values",
+              "placeholder": "",
+              "required": false
+            }
+          ]
+        }
+      ],
+      "images": [
+        {
+          "src": "https://rexfordcommercialcapital.com/wp-content/uploads/2021/07/full-logo.png",
+          "alt": "Rexford Commercial Capital",
+          "width": null,
+          "height": null
+        },
+        {
+          "src": "https://rexfordcommercialcapital.com/wp-content/uploads/2021/07/full-logo.png",
+          "alt": "Rexford Commercial Capital",
+          "width": null,
+          "height": null
+        },
+        {
+          "src": "https://rexfordcommercialcapital.com/wp-content/uploads/2021/07/full-logo.png",
+          "alt": "Rexford Commercial Capital",
+          "width": null,
+          "height": null
+        },
+        {
+          "src": "https://seal-upstateny.bbb.org/seals/blue-seal-96-50-bbb-236017820.png",
+          "alt": "Rexford Commercial Capital BBB Business Review",
+          "width": null,
+          "height": null
+        },
+        {
+          "src": "https://seal-upstateny.bbb.org/seals/blue-seal-96-50-bbb-236017820.png",
+          "alt": "Rexford Commercial Capital BBB Business Review",
+          "width": null,
+          "height": null
+        }
+      ],
+      "sections": []
+    },
+    "https://rexfordcommercialcapital.com/financial-options/small-business-loan/": {
+      "name": "Small Business Loan",
+      "url": "https://rexfordcommercialcapital.com/financial-options/small-business-loan/",
+      "title": "Get Small Business Loans | SBA Loans Near Albany, NY | 518-791-9771",
+      "headings": {
+        "h1": [
+          "SBA LOANS"
+        ],
+        "h2": [
+          "Small Business Loan",
+          "SBA 7A | Express Loans | USDA"
+        ],
+        "h3": [
+          "Contact Us",
+          "Rexford Commercial Capital",
+          "Loan Programs",
+          "Contact",
+          "Social Links"
+        ],
+        "h4": [
+          "Privacy Overview"
+        ]
+      },
+      "forms": [
+        {
+          "id": "form-0",
+          "action": "",
+          "method": "GET",
+          "fields": [
+            {
+              "type": "text",
+              "name": "s",
+              "placeholder": "",
+              "required": false
+            },
+            {
+              "type": "submit",
+              "name": "",
+              "placeholder": "",
+              "required": false
+            }
+          ]
+        },
+        {
+          "id": "gform_2",
+          "action": "https://rexfordcommercialcapital.com/financial-options/small-business-loan/",
+          "method": "POST",
+          "fields": [
+            {
+              "type": "text",
+              "name": "input_1",
+              "placeholder": "",
+              "required": false
+            },
+            {
+              "type": "email",
+              "name": "input_3",
+              "placeholder": "",
+              "required": false
+            },
+            {
+              "type": "tel",
+              "name": "input_4",
+              "placeholder": "",
+              "required": false
+            },
+            {
+              "type": "select",
+              "name": "input_6",
+              "placeholder": "",
+              "required": false
+            },
+            {
+              "type": "text",
+              "name": "input_8",
+              "placeholder": "",
+              "required": false
+            },
+            {
+              "type": "textarea",
+              "name": "input_5",
+              "placeholder": "",
+              "required": false
+            },
+            {
+              "type": "checkbox",
+              "name": "input_7.1",
+              "placeholder": "",
+              "required": false
+            },
+            {
+              "type": "text",
+              "name": "input_9",
+              "placeholder": "",
+              "required": false
+            },
+            {
+              "type": "submit",
+              "name": "gform_submit_button_2",
+              "placeholder": "",
+              "required": false
+            },
+            {
+              "type": "hidden",
+              "name": "gform_submission_method",
+              "placeholder": "",
+              "required": false
+            },
+            {
+              "type": "hidden",
+              "name": "gform_theme",
+              "placeholder": "",
+              "required": false
+            },
+            {
+              "type": "hidden",
+              "name": "gform_style_settings",
+              "placeholder": "",
+              "required": false
+            },
+            {
+              "type": "hidden",
+              "name": "is_submit_2",
+              "placeholder": "",
+              "required": false
+            },
+            {
+              "type": "hidden",
+              "name": "gform_submit",
+              "placeholder": "",
+              "required": false
+            },
+            {
+              "type": "hidden",
+              "name": "gform_unique_id",
+              "placeholder": "",
+              "required": false
+            },
+            {
+              "type": "hidden",
+              "name": "state_2",
+              "placeholder": "",
+              "required": false
+            },
+            {
+              "type": "hidden",
+              "name": "gform_target_page_number_2",
+              "placeholder": "",
+              "required": false
+            },
+            {
+              "type": "hidden",
+              "name": "gform_source_page_number_2",
+              "placeholder": "",
+              "required": false
+            },
+            {
+              "type": "hidden",
+              "name": "gform_field_values",
+              "placeholder": "",
+              "required": false
+            }
+          ]
+        }
+      ],
+      "images": [
+        {
+          "src": "https://rexfordcommercialcapital.com/wp-content/uploads/2021/07/full-logo.png",
+          "alt": "Rexford Commercial Capital",
+          "width": null,
+          "height": null
+        },
+        {
+          "src": "https://rexfordcommercialcapital.com/wp-content/uploads/2021/07/full-logo.png",
+          "alt": "Rexford Commercial Capital",
+          "width": null,
+          "height": null
+        },
+        {
+          "src": "https://rexfordcommercialcapital.com/wp-content/uploads/2021/07/full-logo.png",
+          "alt": "Rexford Commercial Capital",
+          "width": null,
+          "height": null
+        },
+        {
+          "src": "https://seal-upstateny.bbb.org/seals/blue-seal-96-50-bbb-236017820.png",
+          "alt": "Rexford Commercial Capital BBB Business Review",
+          "width": null,
+          "height": null
+        },
+        {
+          "src": "https://seal-upstateny.bbb.org/seals/blue-seal-96-50-bbb-236017820.png",
+          "alt": "Rexford Commercial Capital BBB Business Review",
+          "width": null,
+          "height": null
+        }
+      ],
+      "sections": []
+    },
+    "https://rexfordcommercialcapital.com/finance-blog/": {
+      "name": "Finance Blog",
+      "url": "https://rexfordcommercialcapital.com/finance-blog/",
+      "title": "Finance Blog - Rexford Commercial Capital",
+      "headings": {
+        "h1": [],
+        "h2": [
+          "Finance Blog",
+          "FINANCE BLOG"
+        ],
+        "h3": [
+          "Guide to Starting a Rental Property Business",
+          "3 Advantages To Using Loans for Equipment Financing",
+          "How Women In Business Can Grow Their Network",
+          "How You Can Start a Business With Little to No Money",
+          "Start a Successful Home Health Service Business",
+          "The 4 Keys To Achieving High Customer Satisfaction",
+          "The Benefits Of Using Your Invoices To Get a Loan",
+          "Tips to Help You Stay Professionally Motivated",
+          "Understanding the Pros and Cons of Commercial Bridge Loans",
+          "Using a 504 Program SBA Loan for Your Small Business",
+          "Rexford Commercial Capital",
+          "Loan Programs",
+          "Contact",
+          "Social Links"
+        ],
+        "h4": [
+          "Privacy Overview"
+        ]
+      },
+      "forms": [
+        {
+          "id": "form-0",
+          "action": "",
+          "method": "GET",
+          "fields": [
+            {
+              "type": "text",
+              "name": "s",
+              "placeholder": "",
+              "required": false
+            },
+            {
+              "type": "submit",
+              "name": "",
+              "placeholder": "",
+              "required": false
+            }
+          ]
+        }
+      ],
+      "images": [
+        {
+          "src": "https://rexfordcommercialcapital.com/wp-content/uploads/2021/07/full-logo.png",
+          "alt": "Rexford Commercial Capital",
+          "width": null,
+          "height": null
+        },
+        {
+          "src": "https://rexfordcommercialcapital.com/wp-content/uploads/2021/07/full-logo.png",
+          "alt": "Rexford Commercial Capital",
+          "width": null,
+          "height": null
+        },
+        {
+          "src": "https://rexfordcommercialcapital.com/wp-content/uploads/2021/07/full-logo.png",
+          "alt": "Rexford Commercial Capital",
+          "width": null,
+          "height": null
+        },
+        {
+          "src": "https://rexfordcommercialcapital.com/wp-content/uploads/2024/03/GettyImages-1393885905.jpg",
+          "alt": "",
+          "width": 2121,
+          "height": 1414
+        },
+        {
+          "src": "https://seal-upstateny.bbb.org/seals/blue-seal-96-50-bbb-236017820.png",
+          "alt": "Rexford Commercial Capital BBB Business Review",
+          "width": null,
+          "height": null
+        },
+        {
+          "src": "https://seal-upstateny.bbb.org/seals/blue-seal-96-50-bbb-236017820.png",
+          "alt": "Rexford Commercial Capital BBB Business Review",
+          "width": null,
+          "height": null
+        }
+      ],
+      "sections": []
+    },
+    "https://rexfordcommercialcapital.com/get-started/": {
+      "name": "Get Started",
+      "url": "https://rexfordcommercialcapital.com/get-started/",
+      "title": "Get Started - Rexford Commercial Capital",
+      "headings": {
+        "h1": [
+          "GET STARTED"
+        ],
+        "h2": [
+          "Get Started"
+        ],
+        "h3": [
+          "Rexford Commercial Capital",
+          "Loan Programs",
+          "Contact",
+          "Social Links"
+        ],
+        "h4": [
+          "Privacy Overview"
+        ]
+      },
+      "forms": [
+        {
+          "id": "form-0",
+          "action": "",
+          "method": "GET",
+          "fields": [
+            {
+              "type": "text",
+              "name": "s",
+              "placeholder": "",
+              "required": false
+            },
+            {
+              "type": "submit",
+              "name": "",
+              "placeholder": "",
+              "required": false
+            }
+          ]
+        },
+        {
+          "id": "gform_1",
+          "action": "https://rexfordcommercialcapital.com/get-started/",
+          "method": "POST",
+          "fields": [
+            {
+              "type": "text",
+              "name": "input_1",
+              "placeholder": "Enter first name",
+              "required": false
+            },
+            {
+              "type": "text",
+              "name": "input_2",
+              "placeholder": "Enter last name",
+              "required": false
+            },
+            {
+              "type": "email",
+              "name": "input_3",
+              "placeholder": "Enter email address",
+              "required": false
+            },
+            {
+              "type": "tel",
+              "name": "input_4",
+              "placeholder": "Enter contact phone number",
+              "required": false
+            },
+            {
+              "type": "text",
+              "name": "input_8",
+              "placeholder": "",
+              "required": false
+            },
+            {
+              "type": "textarea",
+              "name": "input_5",
+              "placeholder": "",
+              "required": false
+            },
+            {
+              "type": "text",
+              "name": "input_9",
+              "placeholder": "",
+              "required": false
+            },
+            {
+              "type": "checkbox",
+              "name": "input_7.1",
+              "placeholder": "",
+              "required": false
+            },
+            {
+              "type": "textarea",
+              "name": "g-recaptcha-response",
+              "placeholder": "",
+              "required": false
+            },
+            {
+              "type": "text",
+              "name": "input_10",
+              "placeholder": "",
+              "required": false
+            },
+            {
+              "type": "submit",
+              "name": "gform_submit_button_1",
+              "placeholder": "",
+              "required": false
+            },
+            {
+              "type": "hidden",
+              "name": "gform_submission_method",
+              "placeholder": "",
+              "required": false
+            },
+            {
+              "type": "hidden",
+              "name": "gform_theme",
+              "placeholder": "",
+              "required": false
+            },
+            {
+              "type": "hidden",
+              "name": "gform_style_settings",
+              "placeholder": "",
+              "required": false
+            },
+            {
+              "type": "hidden",
+              "name": "is_submit_1",
+              "placeholder": "",
+              "required": false
+            },
+            {
+              "type": "hidden",
+              "name": "gform_submit",
+              "placeholder": "",
+              "required": false
+            },
+            {
+              "type": "hidden",
+              "name": "gform_unique_id",
+              "placeholder": "",
+              "required": false
+            },
+            {
+              "type": "hidden",
+              "name": "state_1",
+              "placeholder": "",
+              "required": false
+            },
+            {
+              "type": "hidden",
+              "name": "gform_target_page_number_1",
+              "placeholder": "",
+              "required": false
+            },
+            {
+              "type": "hidden",
+              "name": "gform_source_page_number_1",
+              "placeholder": "",
+              "required": false
+            },
+            {
+              "type": "hidden",
+              "name": "gform_field_values",
+              "placeholder": "",
+              "required": false
+            }
+          ]
+        }
+      ],
+      "images": [
+        {
+          "src": "https://rexfordcommercialcapital.com/wp-content/uploads/2021/07/full-logo.png",
+          "alt": "Rexford Commercial Capital",
+          "width": null,
+          "height": null
+        },
+        {
+          "src": "https://rexfordcommercialcapital.com/wp-content/uploads/2021/07/full-logo.png",
+          "alt": "Rexford Commercial Capital",
+          "width": null,
+          "height": null
+        },
+        {
+          "src": "https://rexfordcommercialcapital.com/wp-content/uploads/2021/07/full-logo.png",
+          "alt": "Rexford Commercial Capital",
+          "width": null,
+          "height": null
+        },
+        {
+          "src": "https://seal-upstateny.bbb.org/seals/blue-seal-96-50-bbb-236017820.png",
+          "alt": "Rexford Commercial Capital BBB Business Review",
+          "width": null,
+          "height": null
+        },
+        {
+          "src": "https://seal-upstateny.bbb.org/seals/blue-seal-96-50-bbb-236017820.png",
+          "alt": "Rexford Commercial Capital BBB Business Review",
+          "width": null,
+          "height": null
+        }
+      ],
+      "sections": []
+    },
+    "https://rexfordcommercialcapital.com/privacy-policy/": {
+      "name": "Privacy Policy",
+      "url": "https://rexfordcommercialcapital.com/privacy-policy/",
+      "title": "Privacy Policy - Rexford Commercial Capital",
+      "headings": {
+        "h1": [],
+        "h2": [
+          "Privacy Policy"
+        ],
+        "h3": [
+          "Recent Posts",
+          "Archives",
+          "Our Financing Programs",
+          "Contact Us",
+          "Rexford Commercial Capital",
+          "Loan Programs",
+          "Contact",
+          "Social Links"
+        ],
+        "h4": [
+          "Privacy Overview"
+        ]
+      },
+      "forms": [
+        {
+          "id": "form-0",
+          "action": "",
+          "method": "GET",
+          "fields": [
+            {
+              "type": "text",
+              "name": "s",
+              "placeholder": "",
+              "required": false
+            },
+            {
+              "type": "submit",
+              "name": "",
+              "placeholder": "",
+              "required": false
+            }
+          ]
+        },
+        {
+          "id": "searchform",
+          "action": "https://rexfordcommercialcapital.com/",
+          "method": "GET",
+          "fields": [
+            {
+              "type": "text",
+              "name": "s",
+              "placeholder": "",
+              "required": false
+            },
+            {
+              "type": "submit",
+              "name": "",
+              "placeholder": "",
+              "required": false
+            }
+          ]
+        },
+        {
+          "id": "gform_2",
+          "action": "https://rexfordcommercialcapital.com/privacy-policy/",
+          "method": "POST",
+          "fields": [
+            {
+              "type": "text",
+              "name": "input_1",
+              "placeholder": "",
+              "required": false
+            },
+            {
+              "type": "email",
+              "name": "input_3",
+              "placeholder": "",
+              "required": false
+            },
+            {
+              "type": "tel",
+              "name": "input_4",
+              "placeholder": "",
+              "required": false
+            },
+            {
+              "type": "select",
+              "name": "input_6",
+              "placeholder": "",
+              "required": false
+            },
+            {
+              "type": "text",
+              "name": "input_8",
+              "placeholder": "",
+              "required": false
+            },
+            {
+              "type": "textarea",
+              "name": "input_5",
+              "placeholder": "",
+              "required": false
+            },
+            {
+              "type": "checkbox",
+              "name": "input_7.1",
+              "placeholder": "",
+              "required": false
+            },
+            {
+              "type": "text",
+              "name": "input_9",
+              "placeholder": "",
+              "required": false
+            },
+            {
+              "type": "submit",
+              "name": "gform_submit_button_2",
+              "placeholder": "",
+              "required": false
+            },
+            {
+              "type": "hidden",
+              "name": "gform_submission_method",
+              "placeholder": "",
+              "required": false
+            },
+            {
+              "type": "hidden",
+              "name": "gform_theme",
+              "placeholder": "",
+              "required": false
+            },
+            {
+              "type": "hidden",
+              "name": "gform_style_settings",
+              "placeholder": "",
+              "required": false
+            },
+            {
+              "type": "hidden",
+              "name": "is_submit_2",
+              "placeholder": "",
+              "required": false
+            },
+            {
+              "type": "hidden",
+              "name": "gform_submit",
+              "placeholder": "",
+              "required": false
+            },
+            {
+              "type": "hidden",
+              "name": "gform_unique_id",
+              "placeholder": "",
+              "required": false
+            },
+            {
+              "type": "hidden",
+              "name": "state_2",
+              "placeholder": "",
+              "required": false
+            },
+            {
+              "type": "hidden",
+              "name": "gform_target_page_number_2",
+              "placeholder": "",
+              "required": false
+            },
+            {
+              "type": "hidden",
+              "name": "gform_source_page_number_2",
+              "placeholder": "",
+              "required": false
+            },
+            {
+              "type": "hidden",
+              "name": "gform_field_values",
+              "placeholder": "",
+              "required": false
+            }
+          ]
+        }
+      ],
+      "images": [
+        {
+          "src": "https://rexfordcommercialcapital.com/wp-content/uploads/2021/07/full-logo.png",
+          "alt": "Rexford Commercial Capital",
+          "width": null,
+          "height": null
+        },
+        {
+          "src": "https://rexfordcommercialcapital.com/wp-content/uploads/2021/07/full-logo.png",
+          "alt": "Rexford Commercial Capital",
+          "width": null,
+          "height": null
+        },
+        {
+          "src": "https://rexfordcommercialcapital.com/wp-content/uploads/2021/07/full-logo.png",
+          "alt": "Rexford Commercial Capital",
+          "width": null,
+          "height": null
+        },
+        {
+          "src": "https://seal-upstateny.bbb.org/seals/blue-seal-96-50-bbb-236017820.png",
+          "alt": "Rexford Commercial Capital BBB Business Review",
+          "width": null,
+          "height": null
+        },
+        {
+          "src": "https://seal-upstateny.bbb.org/seals/blue-seal-96-50-bbb-236017820.png",
+          "alt": "Rexford Commercial Capital BBB Business Review",
+          "width": null,
+          "height": null
+        }
+      ],
+      "sections": []
+    }
+  },
+  "navigation": [
+    {
+      "text": "Real Estate Financing",
+      "href": "https://rexfordcommercialcapital.com/#"
+    },
+    {
+      "text": "Fix and Flip Financing",
+      "href": "https://rexfordcommercialcapital.com/financial-options/fix-and-flip-financing/"
+    },
+    {
+      "text": "Rental Property Loans",
+      "href": "https://rexfordcommercialcapital.com/financial-options/rental-property-loans/"
+    },
+    {
+      "text": "Commercial Real Estate Financing",
+      "href": "https://rexfordcommercialcapital.com/financial-options/commercial-real-estate-financing/"
+    },
+    {
+      "text": "Bridge Loans",
+      "href": "https://rexfordcommercialcapital.com/bridge-loans/"
+    },
+    {
+      "text": "Business Loan Solutions",
+      "href": "https://rexfordcommercialcapital.com/#"
+    },
+    {
+      "text": "Equipment Financing",
+      "href": "https://rexfordcommercialcapital.com/financial-options/equipment-financing/"
+    },
+    {
+      "text": "Business Line of Credit",
+      "href": "https://rexfordcommercialcapital.com/financial-options/unsecured-business-line-of-credit/"
+    },
+    {
+      "text": "Small Business Loan",
+      "href": "https://rexfordcommercialcapital.com/financial-options/small-business-loan/"
+    },
+    {
+      "text": "Blog",
+      "href": "https://rexfordcommercialcapital.com/finance-blog/"
+    },
+    {
+      "text": "Get Started",
+      "href": "https://rexfordcommercialcapital.com/get-started/"
+    },
+    {
+      "text": "Call",
+      "href": "tel:+15187919771"
+    },
+    {
+      "text": "Home",
+      "href": "https://rexfordcommercialcapital.com/"
+    },
+    {
+      "text": "Privacy Policy",
+      "href": "https://rexfordcommercialcapital.com/privacy-policy/"
+    }
+  ],
+  "forms": [
+    {
+      "id": "form-0",
+      "action": "",
+      "method": "GET",
+      "fields": [
+        {
+          "type": "text",
+          "name": "s",
+          "placeholder": "",
+          "required": false
+        },
+        {
+          "type": "submit",
+          "name": "",
+          "placeholder": "",
+          "required": false
+        }
+      ]
+    },
+    {
+      "id": "form-0",
+      "action": "",
+      "method": "GET",
+      "fields": [
+        {
+          "type": "text",
+          "name": "s",
+          "placeholder": "",
+          "required": false
+        },
+        {
+          "type": "submit",
+          "name": "",
+          "placeholder": "",
+          "required": false
+        }
+      ]
+    },
+    {
+      "id": "gform_2",
+      "action": "https://rexfordcommercialcapital.com/financial-options/fix-and-flip-financing/",
+      "method": "POST",
+      "fields": [
+        {
+          "type": "text",
+          "name": "input_1",
+          "placeholder": "",
+          "required": false
+        },
+        {
+          "type": "email",
+          "name": "input_3",
+          "placeholder": "",
+          "required": false
+        },
+        {
+          "type": "tel",
+          "name": "input_4",
+          "placeholder": "",
+          "required": false
+        },
+        {
+          "type": "select",
+          "name": "input_6",
+          "placeholder": "",
+          "required": false
+        },
+        {
+          "type": "text",
+          "name": "input_8",
+          "placeholder": "",
+          "required": false
+        },
+        {
+          "type": "textarea",
+          "name": "input_5",
+          "placeholder": "",
+          "required": false
+        },
+        {
+          "type": "checkbox",
+          "name": "input_7.1",
+          "placeholder": "",
+          "required": false
+        },
+        {
+          "type": "text",
+          "name": "input_9",
+          "placeholder": "",
+          "required": false
+        },
+        {
+          "type": "submit",
+          "name": "gform_submit_button_2",
+          "placeholder": "",
+          "required": false
+        },
+        {
+          "type": "hidden",
+          "name": "gform_submission_method",
+          "placeholder": "",
+          "required": false
+        },
+        {
+          "type": "hidden",
+          "name": "gform_theme",
+          "placeholder": "",
+          "required": false
+        },
+        {
+          "type": "hidden",
+          "name": "gform_style_settings",
+          "placeholder": "",
+          "required": false
+        },
+        {
+          "type": "hidden",
+          "name": "is_submit_2",
+          "placeholder": "",
+          "required": false
+        },
+        {
+          "type": "hidden",
+          "name": "gform_submit",
+          "placeholder": "",
+          "required": false
+        },
+        {
+          "type": "hidden",
+          "name": "gform_unique_id",
+          "placeholder": "",
+          "required": false
+        },
+        {
+          "type": "hidden",
+          "name": "state_2",
+          "placeholder": "",
+          "required": false
+        },
+        {
+          "type": "hidden",
+          "name": "gform_target_page_number_2",
+          "placeholder": "",
+          "required": false
+        },
+        {
+          "type": "hidden",
+          "name": "gform_source_page_number_2",
+          "placeholder": "",
+          "required": false
+        },
+        {
+          "type": "hidden",
+          "name": "gform_field_values",
+          "placeholder": "",
+          "required": false
+        }
+      ]
+    },
+    {
+      "id": "form-0",
+      "action": "",
+      "method": "GET",
+      "fields": [
+        {
+          "type": "text",
+          "name": "s",
+          "placeholder": "",
+          "required": false
+        },
+        {
+          "type": "submit",
+          "name": "",
+          "placeholder": "",
+          "required": false
+        }
+      ]
+    },
+    {
+      "id": "gform_2",
+      "action": "https://rexfordcommercialcapital.com/financial-options/rental-property-loans/",
+      "method": "POST",
+      "fields": [
+        {
+          "type": "text",
+          "name": "input_1",
+          "placeholder": "",
+          "required": false
+        },
+        {
+          "type": "email",
+          "name": "input_3",
+          "placeholder": "",
+          "required": false
+        },
+        {
+          "type": "tel",
+          "name": "input_4",
+          "placeholder": "",
+          "required": false
+        },
+        {
+          "type": "select",
+          "name": "input_6",
+          "placeholder": "",
+          "required": false
+        },
+        {
+          "type": "text",
+          "name": "input_8",
+          "placeholder": "",
+          "required": false
+        },
+        {
+          "type": "textarea",
+          "name": "input_5",
+          "placeholder": "",
+          "required": false
+        },
+        {
+          "type": "checkbox",
+          "name": "input_7.1",
+          "placeholder": "",
+          "required": false
+        },
+        {
+          "type": "text",
+          "name": "input_9",
+          "placeholder": "",
+          "required": false
+        },
+        {
+          "type": "submit",
+          "name": "gform_submit_button_2",
+          "placeholder": "",
+          "required": false
+        },
+        {
+          "type": "hidden",
+          "name": "gform_submission_method",
+          "placeholder": "",
+          "required": false
+        },
+        {
+          "type": "hidden",
+          "name": "gform_theme",
+          "placeholder": "",
+          "required": false
+        },
+        {
+          "type": "hidden",
+          "name": "gform_style_settings",
+          "placeholder": "",
+          "required": false
+        },
+        {
+          "type": "hidden",
+          "name": "is_submit_2",
+          "placeholder": "",
+          "required": false
+        },
+        {
+          "type": "hidden",
+          "name": "gform_submit",
+          "placeholder": "",
+          "required": false
+        },
+        {
+          "type": "hidden",
+          "name": "gform_unique_id",
+          "placeholder": "",
+          "required": false
+        },
+        {
+          "type": "hidden",
+          "name": "state_2",
+          "placeholder": "",
+          "required": false
+        },
+        {
+          "type": "hidden",
+          "name": "gform_target_page_number_2",
+          "placeholder": "",
+          "required": false
+        },
+        {
+          "type": "hidden",
+          "name": "gform_source_page_number_2",
+          "placeholder": "",
+          "required": false
+        },
+        {
+          "type": "hidden",
+          "name": "gform_field_values",
+          "placeholder": "",
+          "required": false
+        }
+      ]
+    },
+    {
+      "id": "form-0",
+      "action": "",
+      "method": "GET",
+      "fields": [
+        {
+          "type": "text",
+          "name": "s",
+          "placeholder": "",
+          "required": false
+        },
+        {
+          "type": "submit",
+          "name": "",
+          "placeholder": "",
+          "required": false
+        }
+      ]
+    },
+    {
+      "id": "gform_2",
+      "action": "https://rexfordcommercialcapital.com/financial-options/commercial-real-estate-financing/",
+      "method": "POST",
+      "fields": [
+        {
+          "type": "text",
+          "name": "input_1",
+          "placeholder": "",
+          "required": false
+        },
+        {
+          "type": "email",
+          "name": "input_3",
+          "placeholder": "",
+          "required": false
+        },
+        {
+          "type": "tel",
+          "name": "input_4",
+          "placeholder": "",
+          "required": false
+        },
+        {
+          "type": "select",
+          "name": "input_6",
+          "placeholder": "",
+          "required": false
+        },
+        {
+          "type": "text",
+          "name": "input_8",
+          "placeholder": "",
+          "required": false
+        },
+        {
+          "type": "textarea",
+          "name": "input_5",
+          "placeholder": "",
+          "required": false
+        },
+        {
+          "type": "checkbox",
+          "name": "input_7.1",
+          "placeholder": "",
+          "required": false
+        },
+        {
+          "type": "text",
+          "name": "input_9",
+          "placeholder": "",
+          "required": false
+        },
+        {
+          "type": "submit",
+          "name": "gform_submit_button_2",
+          "placeholder": "",
+          "required": false
+        },
+        {
+          "type": "hidden",
+          "name": "gform_submission_method",
+          "placeholder": "",
+          "required": false
+        },
+        {
+          "type": "hidden",
+          "name": "gform_theme",
+          "placeholder": "",
+          "required": false
+        },
+        {
+          "type": "hidden",
+          "name": "gform_style_settings",
+          "placeholder": "",
+          "required": false
+        },
+        {
+          "type": "hidden",
+          "name": "is_submit_2",
+          "placeholder": "",
+          "required": false
+        },
+        {
+          "type": "hidden",
+          "name": "gform_submit",
+          "placeholder": "",
+          "required": false
+        },
+        {
+          "type": "hidden",
+          "name": "gform_unique_id",
+          "placeholder": "",
+          "required": false
+        },
+        {
+          "type": "hidden",
+          "name": "state_2",
+          "placeholder": "",
+          "required": false
+        },
+        {
+          "type": "hidden",
+          "name": "gform_target_page_number_2",
+          "placeholder": "",
+          "required": false
+        },
+        {
+          "type": "hidden",
+          "name": "gform_source_page_number_2",
+          "placeholder": "",
+          "required": false
+        },
+        {
+          "type": "hidden",
+          "name": "gform_field_values",
+          "placeholder": "",
+          "required": false
+        }
+      ]
+    },
+    {
+      "id": "form-0",
+      "action": "",
+      "method": "GET",
+      "fields": [
+        {
+          "type": "text",
+          "name": "s",
+          "placeholder": "",
+          "required": false
+        },
+        {
+          "type": "submit",
+          "name": "",
+          "placeholder": "",
+          "required": false
+        }
+      ]
+    },
+    {
+      "id": "gform_2",
+      "action": "https://rexfordcommercialcapital.com/bridge-loans/",
+      "method": "POST",
+      "fields": [
+        {
+          "type": "text",
+          "name": "input_1",
+          "placeholder": "",
+          "required": false
+        },
+        {
+          "type": "email",
+          "name": "input_3",
+          "placeholder": "",
+          "required": false
+        },
+        {
+          "type": "tel",
+          "name": "input_4",
+          "placeholder": "",
+          "required": false
+        },
+        {
+          "type": "select",
+          "name": "input_6",
+          "placeholder": "",
+          "required": false
+        },
+        {
+          "type": "text",
+          "name": "input_8",
+          "placeholder": "",
+          "required": false
+        },
+        {
+          "type": "textarea",
+          "name": "input_5",
+          "placeholder": "",
+          "required": false
+        },
+        {
+          "type": "checkbox",
+          "name": "input_7.1",
+          "placeholder": "",
+          "required": false
+        },
+        {
+          "type": "text",
+          "name": "input_9",
+          "placeholder": "",
+          "required": false
+        },
+        {
+          "type": "submit",
+          "name": "gform_submit_button_2",
+          "placeholder": "",
+          "required": false
+        },
+        {
+          "type": "hidden",
+          "name": "gform_submission_method",
+          "placeholder": "",
+          "required": false
+        },
+        {
+          "type": "hidden",
+          "name": "gform_theme",
+          "placeholder": "",
+          "required": false
+        },
+        {
+          "type": "hidden",
+          "name": "gform_style_settings",
+          "placeholder": "",
+          "required": false
+        },
+        {
+          "type": "hidden",
+          "name": "is_submit_2",
+          "placeholder": "",
+          "required": false
+        },
+        {
+          "type": "hidden",
+          "name": "gform_submit",
+          "placeholder": "",
+          "required": false
+        },
+        {
+          "type": "hidden",
+          "name": "gform_unique_id",
+          "placeholder": "",
+          "required": false
+        },
+        {
+          "type": "hidden",
+          "name": "state_2",
+          "placeholder": "",
+          "required": false
+        },
+        {
+          "type": "hidden",
+          "name": "gform_target_page_number_2",
+          "placeholder": "",
+          "required": false
+        },
+        {
+          "type": "hidden",
+          "name": "gform_source_page_number_2",
+          "placeholder": "",
+          "required": false
+        },
+        {
+          "type": "hidden",
+          "name": "gform_field_values",
+          "placeholder": "",
+          "required": false
+        }
+      ]
+    },
+    {
+      "id": "form-0",
+      "action": "",
+      "method": "GET",
+      "fields": [
+        {
+          "type": "text",
+          "name": "s",
+          "placeholder": "",
+          "required": false
+        },
+        {
+          "type": "submit",
+          "name": "",
+          "placeholder": "",
+          "required": false
+        }
+      ]
+    },
+    {
+      "id": "gform_2",
+      "action": "https://rexfordcommercialcapital.com/financial-options/equipment-financing/",
+      "method": "POST",
+      "fields": [
+        {
+          "type": "text",
+          "name": "input_1",
+          "placeholder": "",
+          "required": false
+        },
+        {
+          "type": "email",
+          "name": "input_3",
+          "placeholder": "",
+          "required": false
+        },
+        {
+          "type": "tel",
+          "name": "input_4",
+          "placeholder": "",
+          "required": false
+        },
+        {
+          "type": "select",
+          "name": "input_6",
+          "placeholder": "",
+          "required": false
+        },
+        {
+          "type": "text",
+          "name": "input_8",
+          "placeholder": "",
+          "required": false
+        },
+        {
+          "type": "textarea",
+          "name": "input_5",
+          "placeholder": "",
+          "required": false
+        },
+        {
+          "type": "checkbox",
+          "name": "input_7.1",
+          "placeholder": "",
+          "required": false
+        },
+        {
+          "type": "text",
+          "name": "input_9",
+          "placeholder": "",
+          "required": false
+        },
+        {
+          "type": "submit",
+          "name": "gform_submit_button_2",
+          "placeholder": "",
+          "required": false
+        },
+        {
+          "type": "hidden",
+          "name": "gform_submission_method",
+          "placeholder": "",
+          "required": false
+        },
+        {
+          "type": "hidden",
+          "name": "gform_theme",
+          "placeholder": "",
+          "required": false
+        },
+        {
+          "type": "hidden",
+          "name": "gform_style_settings",
+          "placeholder": "",
+          "required": false
+        },
+        {
+          "type": "hidden",
+          "name": "is_submit_2",
+          "placeholder": "",
+          "required": false
+        },
+        {
+          "type": "hidden",
+          "name": "gform_submit",
+          "placeholder": "",
+          "required": false
+        },
+        {
+          "type": "hidden",
+          "name": "gform_unique_id",
+          "placeholder": "",
+          "required": false
+        },
+        {
+          "type": "hidden",
+          "name": "state_2",
+          "placeholder": "",
+          "required": false
+        },
+        {
+          "type": "hidden",
+          "name": "gform_target_page_number_2",
+          "placeholder": "",
+          "required": false
+        },
+        {
+          "type": "hidden",
+          "name": "gform_source_page_number_2",
+          "placeholder": "",
+          "required": false
+        },
+        {
+          "type": "hidden",
+          "name": "gform_field_values",
+          "placeholder": "",
+          "required": false
+        }
+      ]
+    },
+    {
+      "id": "form-0",
+      "action": "",
+      "method": "GET",
+      "fields": [
+        {
+          "type": "text",
+          "name": "s",
+          "placeholder": "",
+          "required": false
+        },
+        {
+          "type": "submit",
+          "name": "",
+          "placeholder": "",
+          "required": false
+        }
+      ]
+    },
+    {
+      "id": "gform_2",
+      "action": "https://rexfordcommercialcapital.com/financial-options/unsecured-business-line-of-credit/",
+      "method": "POST",
+      "fields": [
+        {
+          "type": "text",
+          "name": "input_1",
+          "placeholder": "",
+          "required": false
+        },
+        {
+          "type": "email",
+          "name": "input_3",
+          "placeholder": "",
+          "required": false
+        },
+        {
+          "type": "tel",
+          "name": "input_4",
+          "placeholder": "",
+          "required": false
+        },
+        {
+          "type": "select",
+          "name": "input_6",
+          "placeholder": "",
+          "required": false
+        },
+        {
+          "type": "text",
+          "name": "input_8",
+          "placeholder": "",
+          "required": false
+        },
+        {
+          "type": "textarea",
+          "name": "input_5",
+          "placeholder": "",
+          "required": false
+        },
+        {
+          "type": "checkbox",
+          "name": "input_7.1",
+          "placeholder": "",
+          "required": false
+        },
+        {
+          "type": "text",
+          "name": "input_9",
+          "placeholder": "",
+          "required": false
+        },
+        {
+          "type": "submit",
+          "name": "gform_submit_button_2",
+          "placeholder": "",
+          "required": false
+        },
+        {
+          "type": "hidden",
+          "name": "gform_submission_method",
+          "placeholder": "",
+          "required": false
+        },
+        {
+          "type": "hidden",
+          "name": "gform_theme",
+          "placeholder": "",
+          "required": false
+        },
+        {
+          "type": "hidden",
+          "name": "gform_style_settings",
+          "placeholder": "",
+          "required": false
+        },
+        {
+          "type": "hidden",
+          "name": "is_submit_2",
+          "placeholder": "",
+          "required": false
+        },
+        {
+          "type": "hidden",
+          "name": "gform_submit",
+          "placeholder": "",
+          "required": false
+        },
+        {
+          "type": "hidden",
+          "name": "gform_unique_id",
+          "placeholder": "",
+          "required": false
+        },
+        {
+          "type": "hidden",
+          "name": "state_2",
+          "placeholder": "",
+          "required": false
+        },
+        {
+          "type": "hidden",
+          "name": "gform_target_page_number_2",
+          "placeholder": "",
+          "required": false
+        },
+        {
+          "type": "hidden",
+          "name": "gform_source_page_number_2",
+          "placeholder": "",
+          "required": false
+        },
+        {
+          "type": "hidden",
+          "name": "gform_field_values",
+          "placeholder": "",
+          "required": false
+        }
+      ]
+    },
+    {
+      "id": "form-0",
+      "action": "",
+      "method": "GET",
+      "fields": [
+        {
+          "type": "text",
+          "name": "s",
+          "placeholder": "",
+          "required": false
+        },
+        {
+          "type": "submit",
+          "name": "",
+          "placeholder": "",
+          "required": false
+        }
+      ]
+    },
+    {
+      "id": "gform_2",
+      "action": "https://rexfordcommercialcapital.com/financial-options/small-business-loan/",
+      "method": "POST",
+      "fields": [
+        {
+          "type": "text",
+          "name": "input_1",
+          "placeholder": "",
+          "required": false
+        },
+        {
+          "type": "email",
+          "name": "input_3",
+          "placeholder": "",
+          "required": false
+        },
+        {
+          "type": "tel",
+          "name": "input_4",
+          "placeholder": "",
+          "required": false
+        },
+        {
+          "type": "select",
+          "name": "input_6",
+          "placeholder": "",
+          "required": false
+        },
+        {
+          "type": "text",
+          "name": "input_8",
+          "placeholder": "",
+          "required": false
+        },
+        {
+          "type": "textarea",
+          "name": "input_5",
+          "placeholder": "",
+          "required": false
+        },
+        {
+          "type": "checkbox",
+          "name": "input_7.1",
+          "placeholder": "",
+          "required": false
+        },
+        {
+          "type": "text",
+          "name": "input_9",
+          "placeholder": "",
+          "required": false
+        },
+        {
+          "type": "submit",
+          "name": "gform_submit_button_2",
+          "placeholder": "",
+          "required": false
+        },
+        {
+          "type": "hidden",
+          "name": "gform_submission_method",
+          "placeholder": "",
+          "required": false
+        },
+        {
+          "type": "hidden",
+          "name": "gform_theme",
+          "placeholder": "",
+          "required": false
+        },
+        {
+          "type": "hidden",
+          "name": "gform_style_settings",
+          "placeholder": "",
+          "required": false
+        },
+        {
+          "type": "hidden",
+          "name": "is_submit_2",
+          "placeholder": "",
+          "required": false
+        },
+        {
+          "type": "hidden",
+          "name": "gform_submit",
+          "placeholder": "",
+          "required": false
+        },
+        {
+          "type": "hidden",
+          "name": "gform_unique_id",
+          "placeholder": "",
+          "required": false
+        },
+        {
+          "type": "hidden",
+          "name": "state_2",
+          "placeholder": "",
+          "required": false
+        },
+        {
+          "type": "hidden",
+          "name": "gform_target_page_number_2",
+          "placeholder": "",
+          "required": false
+        },
+        {
+          "type": "hidden",
+          "name": "gform_source_page_number_2",
+          "placeholder": "",
+          "required": false
+        },
+        {
+          "type": "hidden",
+          "name": "gform_field_values",
+          "placeholder": "",
+          "required": false
+        }
+      ]
+    },
+    {
+      "id": "form-0",
+      "action": "",
+      "method": "GET",
+      "fields": [
+        {
+          "type": "text",
+          "name": "s",
+          "placeholder": "",
+          "required": false
+        },
+        {
+          "type": "submit",
+          "name": "",
+          "placeholder": "",
+          "required": false
+        }
+      ]
+    },
+    {
+      "id": "form-0",
+      "action": "",
+      "method": "GET",
+      "fields": [
+        {
+          "type": "text",
+          "name": "s",
+          "placeholder": "",
+          "required": false
+        },
+        {
+          "type": "submit",
+          "name": "",
+          "placeholder": "",
+          "required": false
+        }
+      ]
+    },
+    {
+      "id": "gform_1",
+      "action": "https://rexfordcommercialcapital.com/get-started/",
+      "method": "POST",
+      "fields": [
+        {
+          "type": "text",
+          "name": "input_1",
+          "placeholder": "Enter first name",
+          "required": false
+        },
+        {
+          "type": "text",
+          "name": "input_2",
+          "placeholder": "Enter last name",
+          "required": false
+        },
+        {
+          "type": "email",
+          "name": "input_3",
+          "placeholder": "Enter email address",
+          "required": false
+        },
+        {
+          "type": "tel",
+          "name": "input_4",
+          "placeholder": "Enter contact phone number",
+          "required": false
+        },
+        {
+          "type": "text",
+          "name": "input_8",
+          "placeholder": "",
+          "required": false
+        },
+        {
+          "type": "textarea",
+          "name": "input_5",
+          "placeholder": "",
+          "required": false
+        },
+        {
+          "type": "text",
+          "name": "input_9",
+          "placeholder": "",
+          "required": false
+        },
+        {
+          "type": "checkbox",
+          "name": "input_7.1",
+          "placeholder": "",
+          "required": false
+        },
+        {
+          "type": "textarea",
+          "name": "g-recaptcha-response",
+          "placeholder": "",
+          "required": false
+        },
+        {
+          "type": "text",
+          "name": "input_10",
+          "placeholder": "",
+          "required": false
+        },
+        {
+          "type": "submit",
+          "name": "gform_submit_button_1",
+          "placeholder": "",
+          "required": false
+        },
+        {
+          "type": "hidden",
+          "name": "gform_submission_method",
+          "placeholder": "",
+          "required": false
+        },
+        {
+          "type": "hidden",
+          "name": "gform_theme",
+          "placeholder": "",
+          "required": false
+        },
+        {
+          "type": "hidden",
+          "name": "gform_style_settings",
+          "placeholder": "",
+          "required": false
+        },
+        {
+          "type": "hidden",
+          "name": "is_submit_1",
+          "placeholder": "",
+          "required": false
+        },
+        {
+          "type": "hidden",
+          "name": "gform_submit",
+          "placeholder": "",
+          "required": false
+        },
+        {
+          "type": "hidden",
+          "name": "gform_unique_id",
+          "placeholder": "",
+          "required": false
+        },
+        {
+          "type": "hidden",
+          "name": "state_1",
+          "placeholder": "",
+          "required": false
+        },
+        {
+          "type": "hidden",
+          "name": "gform_target_page_number_1",
+          "placeholder": "",
+          "required": false
+        },
+        {
+          "type": "hidden",
+          "name": "gform_source_page_number_1",
+          "placeholder": "",
+          "required": false
+        },
+        {
+          "type": "hidden",
+          "name": "gform_field_values",
+          "placeholder": "",
+          "required": false
+        }
+      ]
+    },
+    {
+      "id": "form-0",
+      "action": "",
+      "method": "GET",
+      "fields": [
+        {
+          "type": "text",
+          "name": "s",
+          "placeholder": "",
+          "required": false
+        },
+        {
+          "type": "submit",
+          "name": "",
+          "placeholder": "",
+          "required": false
+        }
+      ]
+    },
+    {
+      "id": "searchform",
+      "action": "https://rexfordcommercialcapital.com/",
+      "method": "GET",
+      "fields": [
+        {
+          "type": "text",
+          "name": "s",
+          "placeholder": "",
+          "required": false
+        },
+        {
+          "type": "submit",
+          "name": "",
+          "placeholder": "",
+          "required": false
+        }
+      ]
+    },
+    {
+      "id": "gform_2",
+      "action": "https://rexfordcommercialcapital.com/privacy-policy/",
+      "method": "POST",
+      "fields": [
+        {
+          "type": "text",
+          "name": "input_1",
+          "placeholder": "",
+          "required": false
+        },
+        {
+          "type": "email",
+          "name": "input_3",
+          "placeholder": "",
+          "required": false
+        },
+        {
+          "type": "tel",
+          "name": "input_4",
+          "placeholder": "",
+          "required": false
+        },
+        {
+          "type": "select",
+          "name": "input_6",
+          "placeholder": "",
+          "required": false
+        },
+        {
+          "type": "text",
+          "name": "input_8",
+          "placeholder": "",
+          "required": false
+        },
+        {
+          "type": "textarea",
+          "name": "input_5",
+          "placeholder": "",
+          "required": false
+        },
+        {
+          "type": "checkbox",
+          "name": "input_7.1",
+          "placeholder": "",
+          "required": false
+        },
+        {
+          "type": "text",
+          "name": "input_9",
+          "placeholder": "",
+          "required": false
+        },
+        {
+          "type": "submit",
+          "name": "gform_submit_button_2",
+          "placeholder": "",
+          "required": false
+        },
+        {
+          "type": "hidden",
+          "name": "gform_submission_method",
+          "placeholder": "",
+          "required": false
+        },
+        {
+          "type": "hidden",
+          "name": "gform_theme",
+          "placeholder": "",
+          "required": false
+        },
+        {
+          "type": "hidden",
+          "name": "gform_style_settings",
+          "placeholder": "",
+          "required": false
+        },
+        {
+          "type": "hidden",
+          "name": "is_submit_2",
+          "placeholder": "",
+          "required": false
+        },
+        {
+          "type": "hidden",
+          "name": "gform_submit",
+          "placeholder": "",
+          "required": false
+        },
+        {
+          "type": "hidden",
+          "name": "gform_unique_id",
+          "placeholder": "",
+          "required": false
+        },
+        {
+          "type": "hidden",
+          "name": "state_2",
+          "placeholder": "",
+          "required": false
+        },
+        {
+          "type": "hidden",
+          "name": "gform_target_page_number_2",
+          "placeholder": "",
+          "required": false
+        },
+        {
+          "type": "hidden",
+          "name": "gform_source_page_number_2",
+          "placeholder": "",
+          "required": false
+        },
+        {
+          "type": "hidden",
+          "name": "gform_field_values",
+          "placeholder": "",
+          "required": false
+        }
+      ]
+    }
+  ],
+  "features": [
+    {
+      "name": "Platform",
+      "value": "WordPress"
+    },
+    {
+      "name": "Script Count",
+      "value": 17
+    },
+    {
+      "name": "Stylesheet Count",
+      "value": 20
+    }
+  ],
+  "scripts": [
+    "https://connect.facebook.net/signals/config/343450815355369?v=2.9.241&r=stable&domain=rexfordcommercialcapital.com&hme=5bd299cb4a477effb7bd992f8c033bfd3316c17b5e8e681c5c577860e1b0bfc7&ex_m=90%2C151%2C131%2C19%2C66%2C67%2C124%2C62%2C42%2C125%2C71%2C61%2C138%2C79%2C13%2C89%2C27%2C119%2C111%2C69%2C72%2C118%2C135%2C98%2C140%2C7%2C3%2C4%2C6%2C5%2C2%2C80%2C88%2C141%2C218%2C162%2C56%2C220%2C221%2C49%2C177%2C26%2C68%2C226%2C225%2C165%2C29%2C55%2C8%2C58%2C84%2C85%2C86%2C91%2C115%2C28%2C25%2C117%2C114%2C113%2C132%2C70%2C134%2C133%2C44%2C54%2C108%2C12%2C137%2C39%2C207%2C209%2C172%2C22%2C23%2C24%2C16%2C17%2C38%2C34%2C36%2C35%2C75%2C81%2C83%2C96%2C123%2C126%2C40%2C97%2C20%2C18%2C102%2C63%2C32%2C128%2C127%2C129%2C120%2C21%2C31%2C53%2C95%2C136%2C64%2C15%2C130%2C30%2C187%2C158%2C268%2C205%2C149%2C190%2C183%2C159%2C93%2C116%2C74%2C106%2C48%2C41%2C104%2C105%2C110%2C52%2C14%2C112%2C103%2C59%2C43%2C99%2C47%2C50%2C46%2C87%2C139%2C0%2C109%2C11%2C107%2C9%2C1%2C51%2C82%2C57%2C60%2C101%2C78%2C77%2C45%2C121%2C76%2C73%2C65%2C100%2C92%2C37%2C122%2C33%2C94%2C10%2C142",
+    "https://connect.facebook.net/en_US/sdk/xfbml.customerchat.js#xfbml=1&version=v6.0&autoLogAppEvents=1",
+    "https://connect.facebook.net/en_US/fbevents.js",
+    "https://rexfordcommercialcapital.com/wp-includes/js/jquery/jquery.min.js?ver=3.7.1",
+    "https://rexfordcommercialcapital.com/wp-includes/js/jquery/jquery-migrate.min.js?ver=3.4.1",
+    "https://rexfordcommercialcapital.com/wp-includes/js/dist/dom-ready.min.js?ver=f77871ff7694fffea381",
+    "https://rexfordcommercialcapital.com/wp-content/plugins/auto-terms-of-service-and-privacy-policy/js/base.js?ver=3.0.3",
+    "https://rexfordcommercialcapital.com/wp-content/plugins/cookie-law-info/legacy/public/js/cookie-law-info-public.js?ver=3.3.1",
+    "https://rexfordcommercialcapital.com/wp-content/plugins/revslider/public/assets/js/rbtools.min.js?ver=6.6.19",
+    "https://rexfordcommercialcapital.com/wp-content/plugins/revslider/public/assets/js/rs6.min.js?ver=6.6.19",
+    "https://www.googletagmanager.com/gtag/js?id=G-6P8W7D7RXH",
+    "https://widget.trustpilot.com/bootstrap/v5/tp.widget.bootstrap.min.js",
+    "https://rexfordcommercialcapital.com/wp-content/themes/creativo/assets/js/plugins.min.js?ver=7.7.5.8",
+    "https://rexfordcommercialcapital.com/wp-content/themes/creativo/assets/js/main.js?ver=7.7.5.8",
+    "https://rexfordcommercialcapital.com/wp-content/themes/creativo/assets/js/min/general/general.min.js?ver=7.7.5.8",
+    "https://rexfordcommercialcapital.com/wp-content/plugins/js_composer/assets/js/dist/js_composer_front.min.js?ver=7.4.1",
+    "https://rexfordcommercialcapital.com/wp-content/plugins/js_composer/assets/lib/vc_waypoints/vc-waypoints.min.js?ver=7.4.1"
+  ],
+  "styles": [
+    "https://rexfordcommercialcapital.com/wp-includes/css/dist/block-library/style.min.css?ver=6.8.3",
+    "https://rexfordcommercialcapital.com/wp-content/plugins/auto-terms-of-service-and-privacy-policy/css/wpautoterms.css?ver=6.8.3",
+    "https://rexfordcommercialcapital.com/wp-content/plugins/cookie-law-info/legacy/public/css/cookie-law-info-public.css?ver=3.3.1",
+    "https://rexfordcommercialcapital.com/wp-content/plugins/cookie-law-info/legacy/public/css/cookie-law-info-gdpr.css?ver=3.3.1",
+    "https://rexfordcommercialcapital.com/wp-content/themes/creativo/style.css?ver=6.8.3",
+    "https://rexfordcommercialcapital.com/wp-content/themes/creativo/assets/css/fontawesome/css/v4-shims.min.css?ver=7.7.5.8",
+    "https://rexfordcommercialcapital.com/wp-content/themes/creativo/assets/css/fontawesome/css/font-awesome.min.css?ver=7.7.5.8",
+    "https://rexfordcommercialcapital.com/wp-content/themes/creativo/assets/css/customfonts/css/custom-fonts.css?ver=7.7.5.8",
+    "https://rexfordcommercialcapital.com/wp-content/themes/creativo/assets/css/style.css?ver=7.7.5.8",
+    "https://rexfordcommercialcapital.com/wp-content/themes/creativo/assets/css/general/flexslider.css?ver=7.7.5.8",
+    "https://rexfordcommercialcapital.com/wp-content/themes/creativo/assets/css/general/magnific-popup.css?ver=7.7.5.8",
+    "https://rexfordcommercialcapital.com/wp-content/themes/creativo/assets/css/tailwind.css?ver=7.7.5.8",
+    "https://rexfordcommercialcapital.com/wp-content/plugins/js_composer/assets/css/js_composer.min.css?ver=7.4.1",
+    "https://rexfordcommercialcapital.com/wp-content/themes/creativo/assets/css/vc/vc-style.css?ver=7.7.5.8",
+    "https://rexfordcommercialcapital.com/wp-content/themes/creativo/assets/css/general/events-calendar.css?ver=7.7.5.8",
+    "https://fonts.googleapis.com/css?family=Source+Sans+Pro%3A400%2C400italic%2C700%2C700italic%7CSource+Serif+Pro%3A400%2C400italic%2C700%2C700italic%7COregano%3A400%2C400italic%2C700%2C700italic%7COpen+Sans%3A400%2C400italic%2C700%2C700italic&latin&ver=6",
+    "https://rexfordcommercialcapital.com/wp-content/plugins/js_composer/assets/lib/bower/animate-css/animate.min.css?ver=7.4.1",
+    "https://rexfordcommercialcapital.com/wp-content/plugins/js_composer/assets/lib/bower/font-awesome/css/v4-shims.min.css?ver=7.4.1",
+    "https://rexfordcommercialcapital.com/wp-content/plugins/js_composer/assets/lib/bower/font-awesome/css/all.min.css?ver=7.4.1",
+    "https://rexfordcommercialcapital.com/wp-content/plugins/revslider/public/assets/css/rs6.css?ver=6.6.19"
+  ],
+  "meta": {
+    "title": "Home - Rexford Commercial Capital",
+    "description": null,
+    "viewport": "width=device-width, initial-scale=1.0"
+  }
+}

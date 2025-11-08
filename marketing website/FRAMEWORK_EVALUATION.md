@@ -12,6 +12,16 @@ Based on your requirements, frameworks are evaluated on:
 6. **Learning Curve** (Medium Priority) - Should be maintainable
 7. **Development Speed** (Medium Priority) - Time to launch
 
+## Inputs From Playwright Crawl (Nov 8 2025)
+
+- Platform confirmed as WordPress with Gravity Forms for lead capture (21 total forms detected)
+- Homepage ships **17 external scripts and 20 stylesheets** despite limited interactivity
+- Meta description is missing, hurting click-through rate, although the viewport tag is present
+- Navigation relies on placeholder anchors (`#`) and duplicated headings, indicating messy markup
+- Service pages reuse the same long Gravity Form (`gform_2`), while **Get Started** houses a 20+ field intake form (`gform_1`)
+- Finance Blog exists but is a generic WordPress archive with no categories/tags—perfect candidate for Markdown-driven content collections
+- These findings reinforce the need for a lightweight, content-first framework with Markdown or Git-based CMS editing, native SEO controls, and simple lead-form embeds
+
 ## Top Framework Options
 
 ### 1. Astro ⭐ **RECOMMENDED**
@@ -38,6 +48,13 @@ Based on your requirements, frameworks are evaluated on:
 2. **Decap CMS** (formerly Netlify CMS) - Free, open-source admin UI
 3. **Tina CMS** - Visual editing with Git-based storage
 4. **Headless CMS** - Contentful, Sanity, Strapi for more advanced needs
+
+#### Why Astro Matches the Crawl Findings
+- Replace the 17 JS bundles with Astro's HTML-first output; only hydrate interactive widgets (forms, calculators) when necessary
+- Content collections turn each financing product page and blog article into Markdown/MDX files—no more fighting Gutenberg
+- Built-in layouts + slots let us standardize the repeating section pattern (hero, offer, process, CTA) discovered across service pages
+- Decap CMS provides a secure admin UI for editing pages/blog posts, while Netlify Forms or Formspree can ingest the lead data currently handled by Gravity Forms
+- Image optimization + sitemap generation fix missing SEO basics (meta description, OpenGraph, etc.) surfaced by Playwright
 
 #### Best For
 ✅ Content-heavy marketing sites
@@ -403,6 +420,8 @@ This combination perfectly addresses all your requirements:
 - ✅ Responsive design
 - ✅ Modern, maintainable
 - ✅ Future-proof
+- ✅ Git-based (Markdown) editing plus Decap’s admin UI means blog posts and service copy are updated in minutes
+- ✅ Plays nicely with Netlify Forms/Formspree to replace the Gravity Forms workflows Playwright identified
 
 It's the anti-WordPress you're looking for, without sacrificing any functionality.
 
